@@ -7,4 +7,4 @@ Supports .obj files that contain all of the in-game text.
 - Drag and drop ig_msg_\*.obj file onto the EXPORT script;
 - Edit text in json;
 - Drag and drop edited json onto IMPORT script;
-- Edit game's executeable to replace the size of the file.
+- Edit game's executeable to replace the size of the file (0x14B734 offset in PAL version).
